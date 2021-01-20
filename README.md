@@ -14,3 +14,6 @@ axel.deman@student.ap.be
 - Neutralere achtergrond.
 - Breadcrumbs restyling
 - Logo update
+
+### Long term aanpassingen.
+- Kies je eigen achtergrond
