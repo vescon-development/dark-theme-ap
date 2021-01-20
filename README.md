@@ -9,3 +9,7 @@ axel.deman@student.ap.be
  
 
 > Deze extensie veranderd alleen styling van de pagina!
+
+#### Volgende veranderingen.
+Neutralere achtergrond.
+Breadcrumbs restyling
