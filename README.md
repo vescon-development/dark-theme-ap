@@ -15,5 +15,5 @@ axel.deman@student.ap.be
 - Breadcrumbs restyling
 - Logo update
 
-### Long term aanpassingen.
+### Long-term aanpassingen.
 - Kies je eigen achtergrond
